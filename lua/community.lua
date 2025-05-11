@@ -51,4 +51,6 @@ return {
   { import = "astrocommunity.utility.live-server-nvim" },
 
   { import = "astrocommunity.lsp.lspsaga-nvim" },
+
+  { import = "astrocommunity.editing-support.vim-visual-multi" },
 }

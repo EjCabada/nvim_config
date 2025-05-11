@@ -97,5 +97,7 @@ return {
         wrap = true,
       },
     },
+    shiftwidth = 4,
+    tabstop = 4,
   },
 }
